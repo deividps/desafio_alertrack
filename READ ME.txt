@@ -1,0 +1,6 @@
+- PÁGINA INICIAL = 'consulta.php'
+####################################
+INSTALAR PROGRAMAS INATIVOS
+
+- mysql.connector  # precisa instalar o pacote
+- requests  # precisa instalar o pacote
